@@ -19,7 +19,7 @@
     "winston": "^3.2.1"
   },
   "engines": {
-    "node": "10.x"
+    "node": "8.x"
   },
   "repository": {
     "url": "https://github.com/wit-hdip-comp-sci-2018/playlist-1"
@@ -29,12 +29,5 @@
     "node",
     "glitch",
     "express"
-  ],
-  "devDependencies": {
-    "prettier": "^1.18.0"
-  },
-  "prettier": {
-    "singleQuote": true,
-    "printWidth": 120
-  }
+  ]
 }
